@@ -1,7 +1,12 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 const UseStateCounter = () => {
-  return <h2>useState counter example</h2>;
+  return(
+      <>
+
+      </>
+      )
+
 };
 
 export default UseStateCounter;
